@@ -1,4 +1,4 @@
-package travelling_sales_person;
+package traveling_sales_person;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package travelling_sales_person;
+package traveling_sales_person;
 /*************************************************************************
  *  YOU DO NOT NEED TO MODIFY THIS FILE
  *
